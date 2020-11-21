@@ -3,7 +3,7 @@
 ### IT experience
 
 |index|구분|제목|소속|기간|사용기술|역할|etc|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:-----:|:-----:|:------------------------------------------------------------------:|:-----------------------------------------------:|:-------------------------:|:------:|:-----------------------------:|
 |0|edu|java 전자정부 프레임워크 개발자 양성과정|2015년 07월 07일 ~ 2015년 12월 18일(960시간)|java, spring, html,css,js,mybtis,oracle,sql| 교육생 |[link](https://github.com/ittapa/Tippingpoint)|
 |1|dev|씽코딩 아두이노 교육 플랫폼|(주)아토플래닛|2016년 05월 ~ 2017년 03월|java, spring boot, html, css,js, mysql,aws(ec2,rds), svg| 개발pm|[link](https://thingcoding.com/)| 
 |2|dev|씽미러 추가 개발|(주)아토플래닛|2017년 04월 ~ 2017년 08월)|java, spring boot, websocket | 개발pm |[link](https://thingcoding.com/)
