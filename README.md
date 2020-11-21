@@ -1,7 +1,6 @@
-### Hi there 👋
-- 
+### Hi there 👋🐑🐑🐑🐑🐑
 
-### experience
+### Project Experience 🏆🏆🏆🏆
 | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
 |:---:|:----------:|:------:|:------:|:-----:|:-------:|
 |연수생   |java 전자정부 프레임워크<br/> 개발자 양성과정|KOSTA|2015.07~<br/>2015.12|java,spring,html,css,js,mybtis,oracle,sq|[link](https://github.com/ittapa/Tippingpoint)|
@@ -11,7 +10,7 @@
 |연수생   |AIFFEL-1기 <br/> 영상처리반|모두연구소|2020.08~<br/>2020.12|ai,python,tensorflow  |[link](https://github.com/ittapa/AIFFEL_LSG)|
 
 -----
-### Teaching experience
+### Teaching experience 📑📑📑✏️✏️
 - 3D프린팅
 - 3d모델링
 - 3D펜
