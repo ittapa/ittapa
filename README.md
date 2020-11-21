@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ittapa/ittapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ### IT experience
 |index|구분|제목|소속|기간|사용기술|역할|etc|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -23,6 +19,11 @@
 - 라즈베리파이
 - 인공지능 스피커 만들기
 - 메이커 워크샵
+
+<!--
+**ittapa/ittapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 
