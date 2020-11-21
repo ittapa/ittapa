@@ -2,8 +2,7 @@
 - 
 
 ### experience
------
- | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
+| 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
 |:---:|:----------:|:------:|:------:|:-----:|:-------:|
 |연수생   |java 전자정부 프레임워크<br/> 개발자 양성과정|KOSTA|2015.07~<br/>2015.12|java,spring,html,css,js,mybtis,oracle,sq|[link](https://github.com/ittapa/Tippingpoint)|
 |개발PM   |씽코딩 아두이노 <br/>교육 플랫폼|아토플래닛|2016.05~<br/>2017.03|java,spring boot,html,css,js,mysql,aws(ec2,rds),svg |[link](https://thingcoding.com/) |
