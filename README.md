@@ -1,7 +1,7 @@
 ### Hi there 👋
+- 
 
------
-### IT experience
+### experience
 -----
  | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
 |:---:|:----------:|:------:|:------:|:-----:|:-------:|
@@ -12,7 +12,7 @@
 |연수생   |AIFFEL-1기 <br/> 영상처리반|모두연구소|2020.08~<br/>2020.12|ai,python,tensorflow  |[link](https://github.com/ittapa/AIFFEL_LSG)|
 
 -----
-### IT Teaching experience
+### Teaching experience
 - 3D프린팅
 - 3d모델링
 - 3D펜
@@ -20,6 +20,8 @@
 - 라즈베리파이
 - 인공지능 스피커 만들기
 - 메이커 워크샵
+
+
 
 <!--
 **ittapa/ittapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
