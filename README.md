@@ -3,7 +3,7 @@
 ### Project Experience 🏆🏆🏆🏆
 | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
 |:---:|:----------:|:------:|:------:|:-----:|:-------:|
-|연수생   |java 전자정부 프레임워크<br/> 개발자 양성과정|KOSTA|2015.07~<br/>2015.12|java,spring,html,css,js,mybtis,oracle,sq|[link](https://github.com/ittapa/Tippingpoint)|
+|연수생   |java 전자정부 프레임워크<br/> 개발자 양성과정|KOSTA|2015.07~<br/>2015.12|java,spring,html,css,js,mybtis,oracle,sql|[link](https://github.com/ittapa/Tippingpoint)|
 |개발PM   |씽코딩 아두이노 <br/>교육 플랫폼|아토플래닛|2016.05~<br/>2017.03|java,spring boot,html,css,js,mysql,aws(ec2,rds),svg |[link](https://thingcoding.com/) |
 |개발PM   |씽미러 추가 개발         |아토플래닛|2017.04~<br/>2017.08|java,spring boot,websocket |[link](https://thingcoding.com/)
 |개발PM   |자사 공식홈페이지 제작   |아토플래닛|2019.01~<br/>2019.02|nodejs,ejs,maridb,html,css,js | [link](https://ato-planet.com/)|
