@@ -4,7 +4,7 @@
 | 기간 | 소속 | 부서 | 직무 | 사용기술  | etc |
 |:----------:|:-------------:|:--------:|:-------:|:-------:|:-----:|
 | 2016.05~2020.02 | (주)아토플래닛 | 콘텐츠개발팀 | 웹 개발, 코딩교육콘텐츠 제작, 용역사업수주 및 사업관리, 강의, 경영(인사, 회계, 시스템관리) | tomcat, node, Java, springboot, aws, js, css, html|  -|
-| 2021.03~ | (주)도화엔지니어링 | 기술개발연구원 플랫폼개발팀 | 웹 플랫폼 개발 및 유지보수| tomcat, jeus, java, spring, nexacro, js, html, css, mssql, azure|  -|
+| 2021.03.02~ | (주)도화엔지니어링 | 기술개발연구원 플랫폼개발팀 | 웹 플랫폼 개발 및 유지보수| tomcat, jeus, java, spring, nexacro, js, html, css, mssql, azure|  -|
 -----
 ### Project Experience 🏆🏆🏆🏆
 | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
