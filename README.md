@@ -5,7 +5,7 @@
 |:------:|:----------:|:-------:|:-------:|:-------:|:-----:|
 | 2016.05~ 2020.02 | (주)아토플래닛 | 콘텐츠개발팀 | 웹 개발, 코딩교육콘텐츠 제작, 용역사업수주 및 사업관리, 강의, 경영(인사, 회계, 시스템관리) | tomcat, node, Java, springboot, aws, js, css, html|  -|
 | 2021.03.02~ 2021.05.| (주)도화엔지니어링 | 기술개발연구원 플랫폼개발팀 | 웹 플랫폼 개발 및 유지보수| tomcat, jeus, java, spring, nexacro, js, html, css, mssql, azure|  -|
-| 2021.05.09~ | 한국시티은행<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 소비자금융전산부 <br/> DataTechnology Team PS unit | Production support | ssh, sql, orcale, rhel, aix |  -|
+| 2021.05.09~ | 한국씨티은행<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 소비자금융전산부 <br/> DataTechnology Team PS unit | Production support | ssh, sql, orcale, rhel, aix |  -|
 -----
 ### Project Experience 🏆🏆🏆🏆
 | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
