@@ -6,6 +6,7 @@
 | 2016.05<br/>~2020.02 | 아토 플래닛    | 콘텐츠개발팀 | 웹 개발, 코딩교육콘텐츠 제작, <br/>용역사업수주 및 사업관리, <br/>강의, 경영(인사, 회계, 시스템관리) | tomcat, node, Java, springboot, aws, js, css, html|
 | 2021.03<br/>~ 2022.05| 도화엔지니어링&nbsp; | 기술개발연구원<br/>플랫폼개발팀 | 웹 플랫폼 개발 및 유지보수| tomcat, jeus, java, spring, nexacro, js, html, css, mssql, azure|
 | 2022.05.09~          | 한국씨티은행| 소비자금융전산부 <br/> DataTechnology<br/>Team PS unit | Production support | ssh, sql, orcale, rhel, aix |
+
 -----
 ### Project Experience 🏆🏆🏆🏆
 | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
