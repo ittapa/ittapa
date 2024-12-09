@@ -1,8 +1,8 @@
 ### Hi there 👋🐑🐑🐑🐑🐑
 
 ### HackerThon 
-- Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
-- Sample
+#### Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
+#### Sample
 | 구&nbsp;&nbsp;분 | Git Hub | URL |
 |:--------:|:-----:|:-----:|
 |Java Server Sample|[Link](https://github.com/ittapa/2411-BackEnd_java)|[Link](https://jseb.qook.io)|
