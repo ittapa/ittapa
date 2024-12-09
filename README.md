@@ -4,6 +4,7 @@
 - Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
 - Sample
 | 구&nbsp;&nbsp;분 | Git Hub | URL |
+|:------:|:----:|:----:|
 |Java Server Sample|[Link]([링크](https://github.com/ittapa/2411-BackEnd_java))|[Link](https://jseb.qook.io)|
 |JS Server Sample|[Link]([링크](https://github.com/ittapa/2411-BackEnd_js))|[Link]([링크](https://jsweb.qook.io))|
 
