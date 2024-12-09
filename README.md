@@ -1,10 +1,19 @@
 ### Hi there 👋🐑🐑🐑🐑🐑
 
+### HackerThon 
+- Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
+- Sample
+| 구&nbsp;&nbsp;분 | Git Hub | URL |
+|Java Server Sample|[Link]([링크](https://github.com/ittapa/2411-BackEnd_java))|[Link](https://jseb.qook.io)|
+|JS Server Sample|[Link]([링크](https://github.com/ittapa/2411-BackEnd_js))|[Link]([링크](https://jsweb.qook.io))|
+
+
+
 ### Work Experience 
 | 기&nbsp;&nbsp;간 | 소&nbsp;&nbsp;속 | 부&nbsp;&nbsp;서 | 직&nbsp;&nbsp;무 | 사용기술  |
 |:------:|:----:|:-------:|:-------:|:-------:|
 | 2016.05<br/>~ 2020.02 | 아토 플래닛    | 콘텐츠개발팀 | 웹 개발, 코딩교육콘텐츠 제작, <br/>용역사업수주 및 사업관리, <br/>강의, 경영(인사, 회계, 시스템관리) | tomcat, node, Java, springboot, <br/>aws, js, css, html|
-| 2021.03<br/>~ 2022.05| 도화엔지니어링&nbsp; | 기술개발연구원<br/>플랫폼개발팀 | 웹 플랫폼 개발 및 유지보수| tomcat, jeus, webtobe java, spring, <br/>nexacro, js, html, css, mssql, azure|
+| 2021.03<br/>~ 2022.05| 도화엔지니어링&nbsp; | 기술개발연구원<br/>플랫폼개발팀 | 자사 웹 플랫폼 개발 및 유지보수| tomcat, jeus, webtobe java, spring, <br/>nexacro, js, html, css, mssql, azure|
 | 2022.05.09~          | 한국씨티은행| 소비자금융전산부 <br/> DataTechnology<br/>Team PS unit | Production support | ssh, sql, orcale, rhel, aix |
 
 -----
