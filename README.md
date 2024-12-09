@@ -5,8 +5,8 @@
 #### Sample
 | 구&nbsp;&nbsp;분 | Git Hub | URL |
 |:--------:|:-----:|:-----:|
-|Java Server Sample|[Link](https://github.com/ittapa/2411-BackEnd_java){:target="_blank"}|[Link](https://jweb.qook.io){:target="_blank"}|
-|JS Server Sample|[Link](https://github.com/ittapa/2411-BackEnd_js){:target="_blank"}|[Link](https://jsweb.qook.io){:target="_blank"}|
+|Java Server Sample|[Link](https://github.com/ittapa/2411-BackEnd_java){: target="_blank"}|[Link](https://jweb.qook.io){: target="_blank"}|
+|JS Server Sample|[Link](https://github.com/ittapa/2411-BackEnd_js){: target="_blank"}|[Link](https://jsweb.qook.io){: target="_blank"}|
 
 - AWS EC2 linux Server / Oracle CLoud compute (mysql)
 - ngnix ssl, port 포워딩
